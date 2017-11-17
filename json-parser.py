@@ -1,3 +1,6 @@
+# Description: python script for parsing patient.json and create output.html
+# Author: Ilene Lu
+
 #! /usr/bin/python
 
 import json
